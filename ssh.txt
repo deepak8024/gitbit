@@ -1,1 +1,2 @@
 schrondinger equation
+time dependent and independent
